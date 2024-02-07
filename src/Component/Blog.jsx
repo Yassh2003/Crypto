@@ -1,6 +1,5 @@
 import React from 'react'
 import {VStack, Box, Text, Image, HStack} from '@chakra-ui/react'
-import bgSrc from "../assets/bg.png";
 import blogSrc from "../assets/blogPic.png";
 import blog2Src from "../assets/blogPic2.png";
 

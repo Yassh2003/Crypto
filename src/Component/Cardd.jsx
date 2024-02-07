@@ -1,7 +1,8 @@
 import React from 'react'
 import { Card, CardBody, Image, Stack, Heading, Text, Divider, CardFooter, ButtonGroup,
 Button} from '@chakra-ui/react'
-import Card1Src from "../assets/cardImg1.png";
+
+const Card1Src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/96px-Bitcoin.svg.png"
 
 function Cardd() {
   return (
