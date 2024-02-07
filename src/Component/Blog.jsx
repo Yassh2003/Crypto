@@ -1,7 +1,9 @@
 import React from 'react'
 import {VStack, Box, Text, Image, HStack} from '@chakra-ui/react'
-import blogSrc from "../assets/blogPic.png";
-import blog2Src from "../assets/blogPic2.png";
+
+const blogSrc = "https://cdn.dribbble.com/users/1615584/screenshots/15931039/media/4e9ad324083fbd6c47bf538039d861cf.jpg?resize=1200x900&vertical=center"
+
+const blog2Src = "https://industrywired.com/wp-content/uploads/2023/11/2024-Crypto-Business-Trends-Embrace-Future-with-Latest-Ideas.jpg"
 
 function Blog() {
   return (
