@@ -1,6 +1,6 @@
 import { Box, HStack, Image, Text, VStack } from "@chakra-ui/react";
 import React from "react";
-import btcSrc from "../assets/btc.png";
+import btcSrc from "../assets/btc (1).png";
 import { motion } from "framer-motion";
 import Card from "./Cardd";
 
